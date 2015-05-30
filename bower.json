@@ -41,6 +41,6 @@
     "respond": "~1.4.2"
   },
   "main": [
-    "cerulean/bootstrap.css"
+    "flatly/bootstrap.css"
   ]
 }
